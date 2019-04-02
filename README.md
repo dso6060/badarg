@@ -1,2 +1,5 @@
+
 # badarg
-A chrome extension to detect bad arguments and incoming personal attacks
+A simple chrome extension that detects bad arguments and incoming personal attacks.
+
+This project is under construction.
